@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pritamcyber
+- 👋 Hi, I’m Pritam
 - 👀 I’m interested in doing Coding
 - 🌱 I’m currently learning python Data Analyst
 - 💞️ I’m looking to collaborate on ...
